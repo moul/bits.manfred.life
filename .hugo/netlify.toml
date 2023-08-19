@@ -6,7 +6,7 @@
     HUGO_ENV = "production"
 
 [context.deploy-preview]
-    command = "make build BASEURL=$DEPLOY_PRIME_URL"
+    command = "HUGO_BASEURL=$DEPLOY_PRIME_URL make build"
 
 [build.environment]
     HUGO_VERSION = "v0.117.0"
