@@ -1,0 +1,3 @@
+[submodule ".hugo/themes/hugo-theme-techdoc"]
+	path = .hugo/themes/hugo-theme-techdoc
+	url = https://github.com/moul/hugo-theme-techdoc
