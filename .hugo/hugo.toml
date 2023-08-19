@@ -47,8 +47,18 @@ enableMissingTranslationPlaceholders = false
     url = "https://twitter.com/moul"
     weight = 2
     identifier = 'twitter'
+    pre = "<i class='fa fa-hashtag'></i>&nbsp;"
     [menu.main.params]
         class = 'twitter-menu-item'
+
+[[menu.main]]
+    name = "GitHub"
+    url = "https://github.com/moul"
+    weight = 3
+    identifier = 'github'
+    pre = "<i class='fa fa-code-compare'></i>&nbsp;"
+    [menu.main.params]
+        class = 'github-menu-item'
 
 [markup]
     defaultMarkdownHandler = "goldmark"
