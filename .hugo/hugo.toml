@@ -2,7 +2,7 @@ baseURL = 'https://bits.manfred.life/'
 languageCode = 'en-us'
 title = "Manfred's Life. Bit by Bit."
 metaDataFormat = "yaml"
-theme = 'hugo-theme-techdoc'
+theme = 'hugo-theme-techdoc''
 
 [params]
     description = "blah"
