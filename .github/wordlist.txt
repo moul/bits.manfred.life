@@ -1,3 +1,12 @@
+# me
 manfred
 touron
 moul
+
+# frontmatter (shouldn't exist)
+url
+
+# common style
+TODO
+FIXME
+XXX
