@@ -1,6 +1,6 @@
 baseURL = 'https://bits.manfred.life/'
 languageCode = 'en-us'
-title = "Manfred's Life. Bit by Bit."
+title = "Manfred's Life."
 metaDataFormat = "yaml"
 theme = 'hugo-theme-techdoc'
 defaultContentLanguage = "en"
@@ -9,9 +9,12 @@ defaultContentLanguageInSubdir = false
 enableMissingTranslationPlaceholders = false
 
 [params]
-    description = "blah"
+    title = "Manfred's Life."
+    #images = ["images/og-image.png"] # static/images
+    description = "Bit by Bit."
+
     github_repository = "https://github.com/moul/bits.manfred.life"
-    version = "0.0.1-dev"
+    #version = "0.0.1-dev"
 
     github_doc_repository = "https://github.com/moul/bits.manfred.life"
     github_doc_repository_path = ""
@@ -19,8 +22,6 @@ enableMissingTranslationPlaceholders = false
 
     # analytics
 
-    title = "Manfred's Life. Bit by Bit."
-    #images = ["images/og-image.png"] # static/images
 
     custom_font_color = ""
     custom_background_color = ""
