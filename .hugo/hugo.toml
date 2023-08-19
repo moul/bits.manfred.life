@@ -3,6 +3,10 @@ languageCode = 'en-us'
 title = "Manfred's Life. Bit by Bit."
 metaDataFormat = "yaml"
 theme = 'hugo-theme-techdoc'
+defaultContentLanguage = "en"
+DefaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+enableMissingTranslationPlaceholders = false
 
 [params]
     description = "blah"
@@ -11,6 +15,7 @@ theme = 'hugo-theme-techdoc'
 
     github_doc_repository = "https://github.com/moul/bits.manfred.life"
     github_doc_repository_path = ""
+    github_doc_repository_branch = "main"
 
     # analytics
 

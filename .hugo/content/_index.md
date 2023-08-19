@@ -1,4 +1,1 @@
----
----
-
-Hello, greetings...
+../../_index.md
