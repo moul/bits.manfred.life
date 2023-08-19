@@ -1,8 +1,9 @@
-run: symlinks
-	hugo server --bind=0.0.0.0 --enableGitInfo --theme=hugo-theme-techdoc
+BASEURL ?= http://localhost
+run:
+	hugo server --bind=0.0.0.0 --enableGitInfo --theme=hugo-theme-techdoc --baseURL=$(BASEURL)
 
-symlinks:
-	cd content; ln -s ../../* . 2>/dev/null || true
-
-build: symlinks
+build:
 	hugo --enableGitInfo
+
+deps:
+	git submodule add -f https://github.com/moul/hugo-theme-techdoc themes/hugo-theme-techdoc
