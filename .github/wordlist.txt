@@ -6,6 +6,8 @@ moul
 # frontmatter (shouldn't exist)
 url
 openbar
+oss
+dao
 
 # common style
 TODO
@@ -14,5 +16,7 @@ XXX
 
 # common topics
 DAO
+DAOs
 OSS
 PR
+PRs
