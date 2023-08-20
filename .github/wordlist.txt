@@ -5,8 +5,14 @@ moul
 
 # frontmatter (shouldn't exist)
 url
+openbar
 
 # common style
 TODO
 FIXME
 XXX
+
+# common topics
+DAO
+OSS
+PR
