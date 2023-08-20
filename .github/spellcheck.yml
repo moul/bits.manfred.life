@@ -30,7 +30,6 @@ matrix:
         - open: '(?s)<!--'
           close: '-->'
 
-
   # Ignore shortcodes first
   - pyspelling.filters.context:
       context_visible_first: true
@@ -45,13 +44,20 @@ matrix:
         - open: '(?s){{<'
           close: '>}}'
 
-
   # Ignore YAML frontmatter
   - pyspelling.filters.context:
       context_visible_first: true
       delimiters:
         # Frontmatter
         - open: '(?s)(?P<open> *-{3,})'
+          close: '^(?P=open)$'
+
+  # Ignore multiline code snippets
+  - pyspelling.filters.context:
+      context_visible_first: true
+      delimiters:
+        # Frontmatter
+        - open: '(?s)(?P<open> *`{3,})'
           close: '^(?P=open)$'
 
   # Markdown links
