@@ -1,12 +1,12 @@
 [build]
-    command = "make build"
-    publish = "public"
+    command = "cd .hugo; make build"
+    publish = ".hugo/public"
 
 [context.production.environment]
     HUGO_ENV = "production"
 
 [context.deploy-preview]
-    command = "HUGO_BASEURL=$DEPLOY_PRIME_URL make build"
+    command = "cd .hugo; HUGO_BASEURL=$DEPLOY_PRIME_URL make build"
 
 [build.environment]
     HUGO_VERSION = "v0.117.0"
