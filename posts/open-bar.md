@@ -1,7 +1,7 @@
 ---
 title: "Open Source is not Open Bar"
 draft: true
-slug: openbar
+slug: open-bar
 tags:
 - oss
 - dao
