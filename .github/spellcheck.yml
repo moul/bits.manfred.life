@@ -1,3 +1,5 @@
+# good inspiration: https://github.com/osohq/oso/blob/c2db7e6541b726d38390a1ef497f8ad2d831f176/docs/spelling/.pyspelling.yml
+
 matrix:
 - name: Markdown
   aspell:
@@ -7,7 +9,79 @@ matrix:
     - .github/wordlist.txt
     encoding: utf-8
   pipeline:
+  - pyspelling.filters.url:
+
   - pyspelling.filters.markdown:
+
+  - pyspelling.filters.context:
+      context_visible_first: true
+      delimiters:
+        - open: '<div'
+          close: '</div>'
+        - open: '<script>'
+          close: '</script>'
+        - open: '<img'
+          close: '/>'
+
+  # HTML comments
+  - pyspelling.filters.context:
+      context_visible_first: true
+      delimiters:
+        - open: '(?s)<!--'
+          close: '-->'
+
+
+  # Ignore shortcodes first
+  - pyspelling.filters.context:
+      context_visible_first: true
+      delimiters:
+        # {{< code >}} shortcodes
+        - open: '(?s)^ *{{< *(?P<name>code).*>}} *$'
+          close: '^ *{{< */(?P=name) *>}} *$'
+        # Shortcode (processed)
+        - open: '(?s){{%'
+          close: '%}}'
+        # Shortcode (raw)
+        - open: '(?s){{<'
+          close: '>}}'
+
+
+  # Ignore YAML frontmatter
+  - pyspelling.filters.context:
+      context_visible_first: true
+      delimiters:
+        # Frontmatter
+        - open: '(?s)(?P<open> *-{3,})'
+          close: '^(?P=open)$'
+
+  # Markdown links
+  - pyspelling.filters.context:
+      context_visible_first: true
+      delimiters:
+        # [text](link)
+        - open: '(?s)\]\('
+          close: '\)'
+        # [text][link]
+        - open: '(?s)\]\['
+          close: '\]'
+        # [text]: link
+        - open: '^ *\[.*\]:'
+          close: '$'
+
+  # Ignore inline and fenced code snippets
+  - pyspelling.filters.context:
+      context_visible_first: true
+      escapes: \\[\\`~]
+      delimiters:
+      # Ignore multiline content between fences (fences can have 3 or more back ticks)
+      # ```
+      # content
+      # ```
+      - open: '(?s)^(?P<open> *`{3,})$'
+        close: '^(?P=open)$'
+      # Ignore text between inline back ticks
+      - open: '(?P<open>`+)'
+        close: '(?P=open)'
   - pyspelling.filters.html:
       comments: false
       ignores:
