@@ -22,3 +22,8 @@ OSS
 PR
 PRs
 inclusivity
+
+# names / quotes
+Ebner
+von
+Eschenbach
