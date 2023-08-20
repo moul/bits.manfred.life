@@ -24,4 +24,6 @@ PRs
 inclusivity
 
 # names / quotes
-Ebner von Eschenbach
+Ebner
+von
+Eschenbach
