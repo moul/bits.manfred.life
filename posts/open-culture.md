@@ -1,5 +1,5 @@
 ---
-title: "Open-Source Culture Beyond Code"
+title: "Open Source Culture Beyond Code"
 draft: true
 slug: open-culture
 tags:

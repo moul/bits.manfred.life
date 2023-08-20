@@ -1,5 +1,13 @@
 ---
 title: "Hello"
+slug: "hello"
+draft: false
 ---
 
-Hello World.
+```go
+package hello
+
+func Hello() string {
+    return "Hello World."
+}
+```
