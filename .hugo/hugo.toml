@@ -72,7 +72,14 @@ enableMissingTranslationPlaceholders = false
 [outputs]
     home = ["HTML", "RSS"]
 
+[permalinks]
+    [permalinks.page]
+        posts = '/:slug/'
+        wikis = '/:slug/'
+    [permalinks.section]
+        posts = '/posts/'
+        wikis = '/wikis/'
 
 [module]
-[[module.imports]]
-path = "github.com/thingsym/hugo-theme-techdoc"
+    [[module.imports]]
+        path = "github.com/thingsym/hugo-theme-techdoc"
