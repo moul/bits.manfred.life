@@ -13,6 +13,7 @@ dao
 TODO
 FIXME
 XXX
+WIP
 
 # common topics
 roadmap
@@ -22,8 +23,16 @@ OSS
 PR
 PRs
 inclusivity
+repo
 
 # names / quotes
 Ebner
 von
 Eschenbach
+
+# Tech projects/deps
+makerlog
+pathwar
+gno
+gnoland
+gnolang
