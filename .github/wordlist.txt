@@ -30,9 +30,16 @@ Ebner
 von
 Eschenbach
 
-# Tech projects/deps
-makerlog
-pathwar
+# Tech projects
 gno
 gnoland
 gnolang
+pathwar
+berty
+wesh
+weshnet
+daretofork
+
+# Tech deps
+makerlog
+techdoc
