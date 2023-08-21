@@ -2,6 +2,7 @@
 title: "Hello"
 slug: "hello"
 draft: false
+weight: -1000
 ---
 
 ```go
