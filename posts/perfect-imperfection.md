@@ -1,6 +1,6 @@
 ---
 title: 'Perfectize the Imperfection: Chasing the Best Version of "Imperfect"'
-menu_title: "Perfectize the Imperfection"
+menu_title: "Perfect Imperfection"
 ---
 
 **Mastering the art of compromise is a superpower.**
@@ -55,3 +55,11 @@ This perspective, reminiscent of the adage, **"Strive for progress, not perfecti
 While perfection might traditionally be seen as the zenith, adopting a lens that values context, strategic moves, and wise compromises often births more impactful and meaningful results.
 
 In transitioning our vantage point and appreciating the imperfect's merit, we not only enhance our endeavors but inspire others to tread the same path, recognizing that perfectionism, unchecked, can become a hurdle rather than a help.
+
+## A Final Thought on Perfection and Planning
+
+By the way, perfection isn't just about the execution; it's intricately tied to planning. I'm gearing up to pen my thoughts on why I'm wary when someone asserts their plan is "clearly defined." In the rapidly evolving world of startups and business, clinging to a rigid roadmap is akin to navigating uncharted waters with an outdated map.
+
+Embracing flexibility in our roadmaps becomes essential. The pursuit of perfection, when entwined with an inflexible plan, can be detrimental. It's less about following a meticulously laid out plan and more akin to playing a game of poker. One must constantly read the environment, adapt, and recalibrate.
+
+Stay tuned as I delve deeper into this topic, exploring the intricate dance between perfection, planning, and the importance of adaptability in our ever-changing world.
