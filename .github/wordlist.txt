@@ -24,11 +24,17 @@ PR
 PRs
 inclusivity
 repo
+perfectize
+impactful
+cliché
+reframing
+perfectizing
 
 # names / quotes
 Ebner
 von
 Eschenbach
+Vilfredo
 
 # Tech projects
 gno
