@@ -1,45 +1,22 @@
 ---
 title: "Open Source Culture Beyond Code"
+menu_title: "Culture of Open"
 draft: true
 slug: open-culture
 tags:
 - oss
 ---
 
-**Status: Draft**
-
-- **Introduction: Embracing Open Source Beyond Code**
-
-- **Diverse Reach of Open Source:**
-  - Applying Open Source Principles Widely
-  - Extending Open Source Beyond Software
-
-- **Everyday Impacts:**
-  - Cultivating an Open Source Mindset Personally
-  - Strengthening Bonds and Relationships in Communities
-
-- **Innovation and Business:**
-  - Collaborative Innovation Beyond Traditional Coding
-  - Unleashing Open Source Models for Business Success
-
-- **Cultural Shifts:**
-  - Embracing Collaboration and Transparency
-  - Upholding Ethical Values and Fostering Inclusivity
-
-- **Education and Learning:**
-  - Infusing Open Source into Education
-  - Empowering Learners through Open Source Principles
-
-- **Social Impact:**
-  - Channeling Open Source for Tangible Social Change
-  - Amplifying Civic Engagement and Collective Participation
-
-- **Beyond the Digital Realm:**
-  - Extending Open Source Principles to Physical Spaces
-  - Nurturing Local Communities through Open Source Initiatives
-
-- **Challenges and Prospects:**
-  - Overcoming Challenges in Spreading Open Source Culture
-  - Exploring Global Collaboration Opportunities
-
-- **Conclusion: Expanding the Boundaries of Open Source Culture**
+- Applying Open Source Principles Widely / Extending Open Source Beyond Software
+- Cultivating an Open Source Mindset Personally
+- Unleashing Open Source Models for Business Success / Open Startups (/open)
+- Strengthening Bonds and Relationships in Communities
+- Building in public: twitter, WIP, Makerlog
+- Embracing Collaboration and Transparency
+- Upholding Ethical Values and Fostering Inclusivity
+- Infusing Open Source into Education / Pathwar / Dare to Fork / Empowering Learners through Open Source Principles
+- Gno: open data, open logic, open computer, open repo
+- Channeling Open Source for Tangible Social Change / Amplifying Civic Engagement and Collective Participation
+- Beyond the Digital Realm: / Extending Open Source Principles to Physical Spaces / Nurturing Local Communities through Open Source Initiatives
+- Overcoming Challenges in Spreading Open Source Culture / Research
+- Web3 is OSS with money

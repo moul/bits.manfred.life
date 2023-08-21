@@ -1,6 +1,6 @@
 BASEURL ?= http://localhost
 run:
-	hugo server --bind=0.0.0.0 --enableGitInfo --baseURL=$(BASEURL) --buildDrafts --buildFuture --contentDir=..
+	hugo server --bind=0.0.0.0 --enableGitInfo --baseURL=$(BASEURL) --buildDrafts --buildFuture --contentDir=.. --disableFastRender
 
 build:
 	hugo --enableGitInfo --buildDrafts --contentDir=..

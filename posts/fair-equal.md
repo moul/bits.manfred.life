@@ -4,8 +4,6 @@ slug: "fair-equal"
 draft: true
 ---
 
-**Status: Draft**
-
 In my quest for a better world, I've realized that aiming for "equality" can
 sometimes feel like trying to organize a group of squirrels into a synchronized
 dance troupe. As Albert Einstein once wisely put it:
