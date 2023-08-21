@@ -29,12 +29,15 @@ impactful
 cliché
 reframing
 perfectizing
+transformative
+Reimagining
 
 # names / quotes
 Ebner
 von
 Eschenbach
 Vilfredo
+Dalí
 
 # Tech projects
 gno
