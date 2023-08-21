@@ -11,5 +11,6 @@
 
 ### Copyright
 
-- Powered by [Hugo](https://gohugo.io).
+- Content under [CC-BY](https://github.com/moul/bits.manfred.life/blob/main/LICENSE).
+- Website powered by [Hugo](https://gohugo.io).
 - Theme by [TechDoc](https://github.com/moul/hugo-theme-techdoc).
