@@ -42,4 +42,4 @@ daretofork
 
 # Tech deps
 makerlog
-techdoc
+TechDoc
