@@ -17,8 +17,10 @@ WIP
 # common topics
 roadmap
 DAO
+dao
 DAOs
 OSS
+oss
 PR
 PRs
 inclusivity
