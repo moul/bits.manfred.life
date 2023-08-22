@@ -24,11 +24,22 @@ PR
 PRs
 inclusivity
 repo
+perfectize
+impactful
+cliché
+reframing
+perfectizing
+transformative
+reimagining
+recalibrate
+roadmaps
 
 # names / quotes
 Ebner
 von
 Eschenbach
+Vilfredo
+Dalí
 
 # Tech projects
 gno
