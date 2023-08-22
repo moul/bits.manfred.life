@@ -33,6 +33,11 @@ transformative
 reimagining
 recalibrate
 roadmaps
+roadmapping
+middleware
+monorepo
+devs
+counterintuitive
 
 # names / quotes
 Ebner
