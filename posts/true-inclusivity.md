@@ -1,5 +1,5 @@
 ---
-title: "True Inclusivity: Beyond The Facade"
+title: "True Inclusivity: The Dichotomy of Open Spaces that Shut Doors"
 menu_title: "Inclusive Inclusivity"
 slug: true-inclusivity
 tags:
