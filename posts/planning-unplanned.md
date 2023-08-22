@@ -45,19 +45,17 @@ Look, Scrum and sprints have their charm. But binding ourselves to super rigid t
 
 Think of it as an agile dance:
 
-`Plan -> Execute -> Adapt -> Repeat.`
-
 ```mermaid
 graph TD;
     A[Plan] --> B[Execute];
     B --> C[Adapt];
     C --> A;
 ```
+
+`Plan -> Execute -> Adapt -> Repeat.`
 
 Sometimes, you might find yourself in this loop:
 
-`Plan -> Execute -> Adapt -> Adapt -> Adapt -> Repeat.`
-
 ```mermaid
 graph TD;
     A[Plan] --> B[Execute];
@@ -67,6 +65,8 @@ graph TD;
     C --> C;
     C --> A;
 ```
+
+`Plan -> Execute -> Adapt -> Adapt -> Adapt -> Repeat.`
 
 ## Broad Strokes First: The Monorepo Way
 
