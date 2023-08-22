@@ -5,9 +5,8 @@ moul
 
 # frontmatter (shouldn't exist)
 url
-openbar
-oss
-dao
+metaTitle
+metaDescription
 
 # common style
 TODO
@@ -38,6 +37,7 @@ middleware
 monorepo
 devs
 counterintuitive
+reimagine
 
 # names / quotes
 Ebner
