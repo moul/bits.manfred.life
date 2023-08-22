@@ -8,6 +8,10 @@ draft: true
 Today I want to share something a tad controversial—especially in our Scrum-certified era.
 Yep, it's about shaking up the traditional roadmapping conventions.
 
+"Planning Unplanned" delves into the art of embracing unpredictability within structured frameworks, highlighting the paradoxical need to both anticipate and adapt to the unexpected.
+
+---
+
 > **Bruce Lee**: "You must be shapeless, formless, like water. When you pour water in a cup, it becomes the cup. When you pour water in a bottle, it becomes the bottle. When you pour water in a teapot, it becomes the teapot. Water can drip and it can crash. Become like water my friend."
 
 This quote beautifully captures the essence of adaptability.
