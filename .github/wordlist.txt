@@ -41,6 +41,7 @@ devs
 counterintuitive
 reimagine
 schemas
+another's
 
 # numbers (wtf)
 th
@@ -52,6 +53,8 @@ Eschenbach
 Vilfredo
 Dalí
 hansson
+Nassim
+Taleb
 heinemeier
 
 # Tech projects
