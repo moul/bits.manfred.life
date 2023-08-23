@@ -5,6 +5,8 @@ tags: ["oss"]
 description: "Exploring the convergence of language and technology, code's cultural impact, and the power of language in shaping humanity's digital journey."
 ---
 
+> "Code is poetry." - David Heinemeier Hansson
+
 From the dawn of civilization, language has shaped human evolution. It was our ability to communicate, share stories, ideas, and dreams that set us apart, allowing us to build complex societies. Today, our cultures, beliefs, and innovations owe their existence to the languages we've developed and adopted. Similarly, programming languages could be the next force propelling humanity into a new era.
 
 In the realm of programming, where ones and zeroes choreograph digital symphonies, we uncover a world beyond binary. Technology shapes our reality, bridging machines and humanity with a profound truth: the language of technology is a bridge itself.
@@ -20,6 +22,8 @@ Programming languages, born from efficiency and precision, mirror our pursuit of
 ## Code and Culture: Beyond Binary, Into Humanity
 
 Reimagining this approach means seeing source code not just as a tool but a medium of expression. By championing programming languages, especially interpreted ones, coding transcends mere execution to become storytelling, poetry, and art. It invites engagement and dialogue, challenging the notion that "code is for the team, binary is for the users". Let's merge these worlds, allowing everyone to partake in the symphony of logic and creativity inherent to programming.
+
+> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler
 
 In this new paradigm, code is a conversation, reflecting our shared humanity, aspirations, and curiosity. By championing programming languages, we not only bolster technological prowess but also enrich the human experience tapestry.
 
@@ -71,4 +75,4 @@ graph TD
 
 As you journey into the intersection of technology and humanity, remember: code and language are your guideposts in this digital odyssey.
 
-> "The digital age is driven by language, shaping both the tools we create and the futures we envision." - Jane Smith
+> "The greatest enemy of knowledge is not ignorance; it is the illusion of knowledge." - Stephen Hawking
