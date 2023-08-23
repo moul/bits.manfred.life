@@ -38,8 +38,8 @@ I usually imagine being more than satisfied by choosing simple fairness. Interes
 
 In our pursuit of balanced progress, I delve into two complementary concepts:
 
-- ["Perfectize the Imperfection: Chasing the Best Version of 'Imperfect'"](./posts/perfect-imperfection.md): Uncover the power of strategic imperfections contributing to growth and impactful results.
-- ["Planning Unplanned: The Magic of Fluid Tech Strategy"](./posts/planning-unplanned.md): Challenge roadmapping conventions and highlight adaptability in structured frameworks.
+- ["Perfectize the Imperfection: Chasing the Best Version of 'Imperfect'"](./perfect-imperfection.md): Uncover the power of strategic imperfections contributing to growth and impactful results.
+- ["Planning Unplanned: The Magic of Fluid Tech Strategy"](./planning-unplanned.md): Challenge roadmapping conventions and highlight adaptability in structured frameworks.
 
 ## Visualizing the Journey
 
