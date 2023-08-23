@@ -40,6 +40,7 @@ monorepo
 devs
 counterintuitive
 reimagine
+schemas
 
 # names / quotes
 Ebner
@@ -47,6 +48,8 @@ von
 Eschenbach
 Vilfredo
 Dalí
+hansson
+heinemeier
 
 # Tech projects
 gno
