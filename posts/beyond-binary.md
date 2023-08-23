@@ -53,25 +53,7 @@ History showcases language's might:
 
 Imagine harnessing language again today to unite us in addressing challenges, just as history's shifts did. Language continues its powerful role in shaping our destiny.
 
-## Schemas and Quotes
-
-Here's a thought-provoking schema to ponder:
-
-```mermaid
-graph TD
-    A[Language]
-    B[Technology]
-    C[Humanity]
-    A --> B
-    B --> C
-    C --> A
-    D[Code]
-    E[Creativity]
-    F[Storytelling]
-    D --> E
-    E --> F
-    F --> D
-```
+---
 
 As you journey into the intersection of technology and humanity, remember: code and language are your guideposts in this digital odyssey.
 
