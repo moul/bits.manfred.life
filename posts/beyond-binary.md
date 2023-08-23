@@ -1,9 +1,9 @@
 ---
 title: "The Language of Technology: A Journey into Humanity's Digital Odyssey"
 menu_title: "Beyond Binary"
-tags: ["oss"]
+tags: ["oss", "platform"]
 description: "Exploring the convergence of language and technology, code's cultural impact, and the power of language in shaping humanity's digital journey."
-slug: beyond-binary
+slug: "beyond-binary"
 ---
 
 > "Code is poetry." - David Heinemeier Hansson
@@ -28,7 +28,7 @@ Reimagining this approach means seeing source code not just as a tool but a medi
 
 In this new paradigm, code is a conversation, reflecting our shared humanity, aspirations, and curiosity. By championing programming languages, we not only bolster technological prowess but also enrich the human experience tapestry.
 
-Code is culture, transcending binary bounds. It spans a spectrum from ["The Classic Hello"]({{< ref "/posts/hello.md" >}}) to ["The Essence of Open Source"]({{< "/posts/open-bar.md" >}}), revealing that it's not just about functions or classes but the people behind them and the culture they foster. ["Open Source Culture Beyond Code"]({{< ref "/posts/open-culture.md" >}}) highlights this, emphasizing the importance of community and collaboration. Merging tech strategy and inclusivity principles, the soul of coding goes beyond algorithms.
+Code is culture, transcending binary bounds. It spans a spectrum from ["The Classic Hello"]({{< ref "/posts/hello.md" >}}) to ["The Essence of Open Source"]({{< ref "/posts/open-bar.md" >}}), revealing that it's not just about functions or classes but the people behind them and the culture they foster. ["Open Source Culture Beyond Code"]({{< ref "/posts/open-culture.md" >}}) highlights this, emphasizing the importance of community and collaboration. Merging tech strategy and inclusivity principles, the soul of coding goes beyond algorithms.
 
 ## Dance of Humans and Compilers
 
