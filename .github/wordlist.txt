@@ -43,7 +43,7 @@ reimagine
 schemas
 
 # numbers (wtf)
-15th
+th
 
 # names / quotes
 Ebner
