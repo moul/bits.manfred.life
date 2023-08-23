@@ -14,7 +14,7 @@ In the ongoing pursuit of a better world, I've come to recognize that the concep
 
 My definition of "perfection" goes beyond managing intricate tasks. It's rooted in establishing fairness and efficiency without succumbing to exhaustion. Imagine navigating a labyrinth, seeking the most efficient path without losing our way or becoming overwhelmed by the journey.
 
-In the spirit of this pursuit, I find inspiration in the concept of ["Perfectize the Imperfection: Chasing the Best Version of 'Imperfect'"](./perfect-imperfection.md), where I explore the power of strategic imperfections contributing to growth and impactful results.
+In the spirit of this pursuit, I find inspiration in the concept of ["Perfectize the Imperfection: Chasing the Best Version of 'Imperfect'"]({{< ref "/posts/perfect-imperfection.md" >}}), where I explore the power of strategic imperfections contributing to growth and impactful results.
 
 ## A New Focus: Embracing Practicality and Reason
 
@@ -43,7 +43,7 @@ Sometimes, I imagine going into the future for 10 years and compare how much I w
 
 I usually imagine being more than satisfied by choosing simple fairness. Interestingly, I also imagine providing actually more than equality, like a win-win or 1+1=3. This is because the time I kept by choosing fairness allowed me to create more collaboration with other actors, which at the end provides more value for everyone.
 
-In this pursuit of embracing imperfections, I'm reminded of ["Planning Unplanned: The Magic of Fluid Tech Strategy"](./planning-unplanned.md), where I challenge roadmapping conventions and highlight adaptability in structured frameworks.
+In this pursuit of embracing imperfections, I'm reminded of ["Planning Unplanned: The Magic of Fluid Tech Strategy"]({{< ref "/posts/planning-unplanned.md" >}}), where I challenge roadmapping conventions and highlight adaptability in structured frameworks.
 
 ## Visualizing the Journey
 
@@ -60,3 +60,5 @@ B --> E[Achievable Harmony]
 ## Moving Forward
 
 Our commitment to fairness and practical progress leads to a balanced and rational world – free from unnecessary complexities.
+
+> "Inequality can have a bad outcome, but equality, for its own sake, is a bad starting point." - Nicholas Nassim Taleb
