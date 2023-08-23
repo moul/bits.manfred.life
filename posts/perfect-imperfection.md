@@ -1,6 +1,7 @@
 ---
 title: 'Perfectize the Imperfection: Chasing the Best Version of "Imperfect"'
-menu_title: "Perfect Imperfection"
+slug: "perfect-imperfection"
+menu_title: "Perfected Imperfection"
 ---
 
 **Mastering the art of compromise is a superpower.**
