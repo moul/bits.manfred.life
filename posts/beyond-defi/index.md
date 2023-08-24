@@ -1,5 +1,5 @@
 ---
-title: "Blockchains are Not Built for DeFi"
+title: "Think Blockchain Was Made for DeFi? Think Again."
 menu_title: "Blockchain ≠ DeFi"
 slug: "beyond-defi"
 draft: true
