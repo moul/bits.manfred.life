@@ -1,7 +1,7 @@
 ---
 title: "Many Dreams, One Journey: Navigating the Multi-Passionate Maze"
 slug: "multi-passion"
-menu_title: ""
+menu_title: "Many Dreams"
 draft: true
 description: "Discover the power of multi-passion living. Dive into the world of individuals who thrive by juggling multiple interests, and learn how their diverse pursuits fuel creativity and innovation."
 ---
