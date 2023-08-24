@@ -11,7 +11,7 @@ draft: true
 
 DeFi has, undoubtedly, been the star of the blockchain show. Its transformative power has reimagined banking, lending, and trading systems. Yet, it's important to remember: limiting blockchain's horizon to DeFi is akin to using the Hubble Telescope to peer into our backyard – there's so much more to explore.
 
- "If I had asked people what they wanted, they would have said faster horses." > Henry Ford
+> "If I had asked people what they wanted, they would have said faster horses." - Henry Ford
 
 ## A Pervasive Future of Blockchain
 
@@ -24,6 +24,16 @@ In the tapestry of tomorrow, blockchains will be interwoven into our daily lives
 The horizon holds promise for developers too. The day isn't far when a developer, starting a new project, will be at a crossroads — choosing between Web2 and Web3 technologies. This choice will not be dictated by technological superiority but by the application's intrinsic needs. Does the project demand decentralization, unparalleled transparency, and inherent trust? Web3 beckons. Does it require raw performance and the maturity of existing frameworks? Web2 remains relevant.
 
 In essence, it's the context and not the convention that will guide technological adoption. And as these technologies mature, I eagerly await the rise of "web2.5" — hybrid applications that harness the best of both worlds, bridging the decentralized with the centralized, crafting solutions that were once deemed unfathomable.
+
+## Blockchain: A Bulwark Against The Rise of AI
+
+As artificial intelligence (AI) advances, its ubiquity and influence in our daily lives grow. While AI holds the promise of optimization and efficiency, unchecked and unchallenged, it might also centralize control, putting vast power into the hands of a select few. Herein lies one of the profound promises of blockchain technology.
+
+In my opinion, blockchains represent more than just a technical marvel. They stand as a testament to a decentralized future, where power and control are distributed, not hoarded. By embedding crucial systems and processes within a decentralized framework like blockchain, we could harness the power of AI while ensuring it remains a tool for humanity — not our overlord.
+
+Web3, in essence, isn't just a technological shift; it's a paradigm shift. It's our answer to preserving the autonomy and agency of individual world citizens in the face of behemoth conglomerates and powerful technological forces.
+
+> "Liberty, when it begins to take root, is a plant of rapid growth." - George Washington
 
 ## Exploring the Larger Landscape
 
@@ -38,6 +48,8 @@ The transformative power of blockchain extends to:
 - **Charity:** Ensuring every donated dollar reaches its destination transparently.
 - **Research & Science:** Reinforcing authenticity in academia and research.
 
+> "The best way to predict the future is to invent it." - Alan Kay
+
 ## Uniting the World: The Global Blockchain Web
 
 With advancements in UX, developer experiences (DX), and the confluence of hybrid applications, the stage is set for blockchain to not just power applications but to drive world-sized platforms. Breaking down geographical barriers and cultural frontiers, these platforms will herald a new era of global unity and interconnectivity.
@@ -49,5 +61,3 @@ Yet, amid this vastness, the true beauty, I believe, will emerge from the nuance
 ## Final Thoughts
 
 The DeFi phenomenon is just one chapter in blockchain's grand narrative. A boundless expanse lies ahead, awaiting pioneers to weave a future where blockchain symbolizes more than just finance – it stands for a decentralized, lucid, and equitable globe. It's imperative we broaden our vistas and immerse ourselves in the manifold wonders that blockchain promises beyond the realm of DeFi.
-
-> "The best way to predict the future is to invent it." - Alan Kay
