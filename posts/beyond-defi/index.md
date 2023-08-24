@@ -23,6 +23,14 @@ In the tapestry of tomorrow, blockchains will be interwoven into our daily lives
 
 The horizon holds promise for developers too. The day isn't far when a developer, starting a new project, will be at a crossroads — choosing between Web2 and Web3 technologies. This choice will not be dictated by technological superiority but by the application's intrinsic needs. Does the project demand decentralization, unparalleled transparency, and inherent trust? Web3 beckons. Does it require raw performance and the maturity of existing frameworks? Web2 remains relevant.
 
+```mermaid
+graph TB
+  B[Web2 or Web3?]
+  B -->|Performance & Maturity| C[Web2]
+  B -->|Hybrid Approach| E["Web2.5"]
+  B -->|Decentralization & Transparency| D[Web3]
+```
+
 In essence, it's the context and not the convention that will guide technological adoption. And as these technologies mature, I eagerly await the rise of "web2.5" — hybrid applications that harness the best of both worlds, bridging the decentralized with the centralized, crafting solutions that were once deemed unfathomable.
 
 ## Blockchain: A Bulwark Against The Rise of AI
