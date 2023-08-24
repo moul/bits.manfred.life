@@ -1,6 +1,7 @@
 ---
 title: "Planning Unplanned: The Magic of Fluid Tech Strategy"
 menu_title: "Planning Unplanned"
+slug: "planning-unplanned"
 description: "Ditching rigidity for adaptability in the tech world—why going with the flow might just be the best game plan."
 draft: true
 ---
