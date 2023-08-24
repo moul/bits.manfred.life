@@ -1,5 +1,5 @@
 ---
-title: "Beyond DeFi: The Expansive Horizons of Blockchain Technology"
+title: "Blockchains are Not Built for DeFi"
 menu_title: "Blockchain ≠ DeFi"
 slug: "beyond-defi"
 draft: true
@@ -96,4 +96,4 @@ graph TD
 
 ## Final Thoughts
 
-The DeFi phenomenon is just one chapter in blockchain's grand narrative. A boundless expanse lies ahead, awaiting pioneers to weave a future where blockchain symbolizes more than just finance – it stands for a decentralized, lucid, and equitable globe. It's imperative we broaden our vistas and immerse ourselves in the manifold wonders that blockchain promises beyond the realm of DeFi.
+While DeFi has put blockchain on the map, it's just the beginning. As we look ahead, blockchain's potential reaches far beyond finance, promising a more decentralized and transparent world. Let's explore these horizons with open minds and curiosity.
