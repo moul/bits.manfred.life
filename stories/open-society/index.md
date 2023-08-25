@@ -20,6 +20,18 @@ Next stop was the Dining Commons. The delectable aroma of dishes, each a symphon
 
 The day culminated at the Open Library, where stories were birthed through collective imagination. Lia lost herself in tales that evolved with every reader's input, making every narrative adventure unique.
 
+```mermaid
+graph TD
+    A[Neo-Eden]
+    A --> B[Grand Agora]
+    A --> C[Dining Commons]
+    A --> D[Local Library]
+    A --> E[Fashion Commons]
+    A --> F[Observatory]
+    A --> G[Residential Districts]
+    A --> H[Open Art Installations]
+```
+
 As dusk approached, Lia felt an overwhelming sense of gratitude. Neo-Eden, with its ethos of openness, had crafted a world where possibilities were endless, and dreams, no matter how grand or minuscule, were within reach.
 
 # Chapter Two: Midday Reflections
