@@ -17,6 +17,8 @@ WIP
 # common topics
 roadmap
 DAO
+Gno's
+wSociety
 dao
 DAOs
 OSS
