@@ -57,6 +57,8 @@ reimagine
 schemas
 another's
 undercompensated
+ephemerality
+façade
 ideate
 
 # numbers (wtf)
@@ -72,6 +74,14 @@ hansson
 Nassim
 Taleb
 heinemeier
+
+# characters
+Granger
+Lia
+Agora
+Granger's
+Lia's
+Agora's
 
 # Tech projects
 gno
