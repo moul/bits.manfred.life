@@ -28,6 +28,15 @@ As the midday sun bathed Neo-Eden in its warm embrace, a different side of the c
 
 Lia, still riding the high of the morning's victories, was brought back to earth as she approached the 'Open Design Studio.' The structure, usually a hub of creativity, bore an air of tension today. A debate ensued over a building proposal that was gaining traction. While many lauded its innovation, others felt it stripped away the essence of their beloved Neo-Eden. Here, in the heart of open innovation, lay the challenge: how does one reconcile diverse visions into a singular dream?
 
+```mermaid
+graph TD
+    A[Proposal Initiation] --> B[Community Feedback]
+    B --> C[Grand Agora Debates]
+    C --> D1[Approval]
+    C --> D2[Modification]
+    C --> D3[Rejection]
+```
+
 The delightful aromas from the Dining Commons were slightly marred when Lia overheard a group lamenting the loss of a cherished traditional dish, replaced by newer, more popular recipes. It was a reminder that while innovation was celebrated, sometimes, treasured legacies were left behind.
 
 Walking towards the Grand Agora, Lia noticed a gathering – a group passionately arguing the pros and cons of a proposed transportation system. It promised efficiency but threatened to disrupt several community spaces. This was the tightrope of Neo-Eden: progress versus preservation.
