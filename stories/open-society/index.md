@@ -45,8 +45,9 @@ graph TD
     A[Proposal Initiation] --> B[Community Feedback]
     B --> C[Grand Agora Debates]
     C --> D1[Approval]
-    C --> D2[Modification]
     C --> D3[Rejection]
+    C --> D2[Modification]
+    D2 --> B
 ```
 
 The delightful aromas from the Dining Commons were slightly marred when Lia overheard a group lamenting the loss of a cherished traditional dish, replaced by newer, more popular recipes. It was a reminder that while innovation was celebrated, sometimes, treasured legacies were left behind.
