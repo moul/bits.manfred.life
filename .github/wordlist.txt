@@ -71,6 +71,14 @@ Nassim
 Taleb
 heinemeier
 
+# characters
+Granger
+Lia
+Agora
+Granger's
+Lia's
+Agora's
+
 # Tech projects
 gno
 gnoland
