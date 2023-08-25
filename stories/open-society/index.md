@@ -43,8 +43,3 @@ The day's reflections left her with a lingering thought – In the grand tapestr
 ---
 
 **To be continued...**
-
-
----
-
-**To be continued...**
