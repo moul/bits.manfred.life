@@ -18,6 +18,30 @@ Imagine we've been whispered a story, only to find out it's been edited. That's 
 
 Now, think about where we get most of our info – the news. If they missed out on a real conspiracy, or worse, covered it up, how do we know what else they're missing or hiding? It's like having that one friend who’s always "forgetting" to tell you the juiciest gossip. Can we really trust them the same way again?
 
+```mermaid
+graph TD
+    A[How Many Conspiracy Theories are True?]
+    B[Zero]
+    C[One]
+    D[Some of Them]
+    E[Too Many of Them]
+    F[No Censorship]
+    G[Censorship Exists]
+    I[We Need Blockchains]
+    
+    A -->|No Truth| B
+    A -->|A Glimmer of Truth| C
+    A -->|Somewhat True| D
+    A -->|Undeniably True| E
+    
+    B --> F
+    C --> G
+    D --> G
+    E --> G
+    
+    G --> I
+```
+
 ## Big Names, Bigger Games
 
 "Blind belief in authority is the greatest enemy of truth." - **Albert Einstein**
