@@ -2,6 +2,7 @@
 ---
 title: "Open Society: Open Source Beyond Just Code"
 menu_title: "Open Source^wSociety"
+slug: "open-everything"
 description: "An exploration into the expansive world of open-source culture beyond just software development."
 keywords: "open source, culture, business, community, education, transparency, collaboration, ethical values, inclusivity, social change, tangible, web3, OSS"
 ---
