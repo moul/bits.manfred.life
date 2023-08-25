@@ -43,7 +43,7 @@ Sometimes, I imagine going into the future for 10 years and compare how much I w
 
 I usually imagine being more than satisfied by choosing simple fairness. Interestingly, I also imagine providing actually more than equality, like a win-win or 1+1=3. This is because the time I kept by choosing fairness allowed me to create more collaboration with other actors, which at the end provides more value for everyone.
 
-In this pursuit of embracing imperfections, I'm reminded of ["Planning Unplanned: The Magic of Fluid Tech Strategy"]({{< ref "/posts/planning-unplanned.md" >}}), where I challenge roadmapping conventions and highlight adaptability in structured frameworks.
+In this pursuit of embracing imperfections, I'm reminded of ["Planning Unplanned: The Magic of Fluid Tech Strategy"]({{< ref "/posts/unplanned-planning" >}}), where I challenge roadmapping conventions and highlight adaptability in structured frameworks.
 
 ## Visualizing the Journey
 
