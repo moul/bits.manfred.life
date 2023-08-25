@@ -1,9 +1,8 @@
 ---
-title: "Planning Unplanned: The Magic of Fluid Tech Strategy"
-menu_title: "Planning Unplanned"
-slug: "planning-unplanned"
+title: "Unplanned Planning: The Magic of Fluid Tech Strategy"
+menu_title: "Unplanned Planning"
+slug: "unplanned-planning"
 description: "Ditching rigidity for adaptability in the tech world—why going with the flow might just be the best game plan."
-draft: true
 ---
 
 Today I want to share something a tad controversial—especially in our Scrum-certified era.
