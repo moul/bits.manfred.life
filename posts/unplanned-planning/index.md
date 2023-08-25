@@ -2,97 +2,62 @@
 title: "Unplanned Planning: The Magic of Fluid Tech Strategy"
 menu_title: "Unplanned Planning"
 slug: "unplanned-planning"
-description: "Ditching rigidity for adaptability in the tech world—why going with the flow might just be the best game plan."
+description: "Exploring the delicate dance between planning and spontaneity in tech—how steering with a fluid strategy might just be your secret weapon."
+draft: false
 ---
 
-Today I want to share something a tad controversial—especially in our Scrum-certified era.
-Yep, it's about shaking up the traditional roadmapping conventions.
+# Fluid Foundations: Navigating Tech with Adaptive Strategies
 
-"Planning Unplanned" delves into the art of embracing unpredictability within structured frameworks, highlighting the paradoxical need to both anticipate and adapt to the unexpected.
+**Bruce Lee** once mused, "You must be shapeless, formless, like water. When you pour water in a cup, it becomes the cup. When you pour water in a bottle, it becomes the bottle. When you pour water in a teapot, it becomes the teapot. Water can drip and it can crash. Become like water, my friend." 
 
----
+His wisdom resonates profoundly when thinking about tech strategies. In an ever-evolving tech landscape, it's not just about planning, but about adapting; being malleable yet purposeful, just like water.
 
-> **Bruce Lee**: "You must be shapeless, formless, like water. When you pour water in a cup, it becomes the cup. When you pour water in a bottle, it becomes the bottle. When you pour water in a teapot, it becomes the teapot. Water can drip and it can crash. Become like water my friend."
+## Inspiration from the Greats
 
-This quote beautifully captures the essence of adaptability.
-In the realm of project management and planning, we must be like water, taking the shape of our environment and challenges.
+> **Charles Darwin**: "It's not the strongest, but the most adaptable that thrive."
 
-## Quotes to Set the Mood
+> **Mike Tyson**: "Everyone has a plan until they get punched in the mouth."
 
-First, some food for thought from some really cool people:
-  
-> **Charles Darwin**: "Survival of the fittest? More like survival of the most adaptable."
+In diverse fields, from nature to boxing, adaptability emerges as the unsung hero. It’s the silent power that fuels success.
 
-> **Mike Tyson**: "Got a plan? Wait till life punches you in the face."
+## Ditching the Obsession with Over-Planning
 
-These snippets aren't just catchy.
-They're a shout-out to the art of adaptability.
-Whether it's nature, combat, or tech, the ability to flex and adapt is golden.
+**Broad Horizons Over Minute Details**: While details matter, obsessing over them can cloud our vision. The allure of spontaneity and the opportunities it brings can get overshadowed.
 
-## Here’s the Deal: Why Over-Planning Isn’t the Way
+**Romancing the Unknown**: Life’s unpredictability is its charm. Instead of futilely trying to predict every twist and turn, embrace the detours. They often lead to the most scenic routes.
 
-- **Drowning in Details**: More details don't always mean better clarity. Sometimes, they blur the bigger picture and the exciting turns a project can take.
+## Rethinking Sprints
 
-- **Embrace the Unknown**: Predicting every twist and turn? That's a wild goose chase. The real magic lies in dancing with the unexpected.
+Sprints have their moments, but strict timelines can sometimes stifle the creative soul. After all, masterpieces weren’t always created in a day.
 
-## Sprinting: Not Always the Winner’s Move
+## Seeing Beyond the Tech Talk
 
-Look, Scrum and sprints have their charm. But binding ourselves to super rigid timelines can choke creativity. And let's be honest, how often does everything go exactly as planned?
+**The Big Picture Over Implementation Jargons**: During brainstorming, prioritize the mission and vision. Implementation details, though critical, can wait. Let's focus on the 'what' before the 'how'.
 
-## Don’t Get Lost in the Tech Lingo
+**Features Over Functions**: Talk about the final product or service before dissecting the nitty-gritty of the process.
 
-- **Board Battles**: Ever gotten lost in a sea of tech jargon during brainstorming sessions? Implementation specifics have their time and place. But starting with them? That’s a creativity-killer.
+## How to Do It: Embracing Fluid Strategy
 
-- **Features First, Jargon Later**: Instead of delving into the “hows” right off the bat, focus on the “whats”. Say, “This service will handle user authentication” rather than deep-diving into the middleware specifics.
+### 1. **Outcome Over Implementation**
 
-## The Real MVP: Adaptive Planning
+Pause and ponder. **What's the goal?** Establishing this from the get-go fosters innovation and aligns the team. Diving straight into the 'how' can limit perspectives and stifle creativity.
 
-Think of it as an agile dance:
+### 2. **Less is More: The Whiteboard Philosophy**
 
-```mermaid
-graph TD;
-    A[Plan] --> B[Execute];
-    B --> C[Adapt];
-    C --> A;
-```
+Visual representation helps. A cluttered board can indicate a cluttered strategy. Prioritize integration over segmentation at initial stages.
 
-`Plan -> Execute -> Adapt -> Repeat.`
+### 3. **Start Simple: The Monorepo & Mono-File Approach**
 
-Sometimes, you might find yourself in this loop:
+Think holistic. Start with a broader view, be it a monorepo or even a mono-file, and then segment and refine as you progress.
 
-```mermaid
-graph TD;
-    A[Plan] --> B[Execute];
-    B --> C[Adapt];
-    C --> C;
-    C --> C;
-    C --> C;
-    C --> A;
-```
+## The Allure of Fluid Roadmaps
 
-`Plan -> Execute -> Adapt -> Adapt -> Adapt -> Repeat.`
+**Adaptability Over Predictability**: While foresight is crucial, being adaptable is key in the dynamic tech world.
 
-## Broad Strokes First: The Monorepo Way
+**Inspiration Not Restriction**: Let roadmaps be guiding stars, not binding chains.
 
-Starting with a broad view and refining as we go is smart.
-As we get the hang of things, we can sift out the gems and build upon them.
-It's about evolving organically.
+## In Conclusion
 
-## Vision Over Tiny Specs
+Tech strategy isn't about clairvoyance. It's about preparedness. While planning has its merits, the magic often lies in adaptability. So, the next time you're charting a course in the tech world, remember to be like water, shaping and reshaping, but always moving forward.
 
-A shared vision can act like a beacon.
-It guides and aligns everyone—from devs to designers.
-Details are good, but the bigger picture? That’s gold.
-
-## Why Fluid Roadmaps are the Future
-
-- **Adapting > Predicting**: The tech world’s fast-paced. Predicting everything's tough. But adapting? That's doable.
-
-- **Guides, Not Chains**: Roadmaps should inspire and guide, not shackle us.
-
-# Wrapping Up
-
-Roadmapping isn't about predicting the future.
-It's about gearing up for it.
-This might sound counterintuitive, especially when everyone's raving about Scrum certs.
-But sometimes, flowing like water is the real power move in tech.
+I'm a firm advocate of this adaptive and fluid approach, especially at the outset of a project, amidst its journey, and while conceptualizing new features. It encourages innovation, broadens horizons, and ensures everyone is on the same page. That said, there's undeniable value in stability. The finality of a product, a point where it undergoes minimal to no change, has its unique charm and purpose. But in my opinion, that should be a subsequent phase, not the initial focus. Stay tuned, as I’ll soon delve into the importance of achieving this product stability in a forthcoming article.
