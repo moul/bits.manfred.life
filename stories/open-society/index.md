@@ -1,6 +1,6 @@
 ---
-title: "Open Society"
-menu_title: "Open Society (Novel)"
+title: "Neo-Eden Diaries: Navigating an Open Society"
+menu_title: "Open Society"
 slug: "open-society"
 ---
 
