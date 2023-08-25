@@ -2,6 +2,7 @@
 title: "Untangling the Web of Conspiracy Theories and Censorship"
 draft: false
 menu_title: "Truth or Conspiracy?"
+slug: "truth-or-conspiracy"
 description: "Exploring the intricate relationship between conspiracy theories, censorship, and the truth."
 keywords: "conspiracy theories, censorship, truth, media bias, blockchains"
 ---
