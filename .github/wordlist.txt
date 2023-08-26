@@ -20,7 +20,7 @@ nitty
 roadmap
 DAO
 Gno's
-wSociety
+wEverything
 dao
 DAOs
 OSS
