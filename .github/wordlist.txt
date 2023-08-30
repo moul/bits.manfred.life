@@ -23,6 +23,8 @@ Gno's
 curveball
 hearted
 Starview
+syllabi
+Coursera
 wEverything
 dao
 microservices
