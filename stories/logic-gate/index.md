@@ -7,7 +7,7 @@ description: "An immersive journey through a digital cosmos, where realms conver
 keywords: "digital realms, Logic Gate, Nexus, Kai, digital prodigy, Outliers, Custodians, interconnected multiverse, digital odyssey, synthesis, anarchy, digital cosmos"
 ---
 
-![](./digital-bridge 2.png)
+![](./digital-bridge%202.png)
 
 ## Chapter 1: Convergence
 
