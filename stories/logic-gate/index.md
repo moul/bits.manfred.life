@@ -2,6 +2,9 @@
 title: "The Logic Gate: An Odyssey Through Digital Realms"
 menu_title: "Logic Gate"
 slug: "logic-gate"
+draft: false
+description: "An immersive journey through a digital cosmos, where realms converge, anarchy dances, and the mysteries of the Logic Gate unfold. Dive deep with Kai, a digital prodigy, as he navigates the challenges and wonders of The Nexus and beyond."
+keywords: "digital realms, Logic Gate, Nexus, Kai, digital prodigy, Outliers, Custodians, interconnected multiverse, digital odyssey, synthesis, anarchy, digital cosmos"
 ---
 
 ![](./digital-bridge 2.png)
