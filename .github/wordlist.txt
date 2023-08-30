@@ -20,6 +20,9 @@ nitty
 roadmap
 DAO
 Gno's
+curveball
+hearted
+Starview
 wEverything
 dao
 DAOs
