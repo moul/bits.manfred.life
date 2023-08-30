@@ -19,6 +19,7 @@ Jargons
 nitty
 roadmap
 DAO
+interconnectedness
 Gno's
 curveball
 hearted
