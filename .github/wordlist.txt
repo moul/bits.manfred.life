@@ -26,6 +26,9 @@ DAOs
 OSS
 oss
 Blockchain
+Dualities
+integrations
+integration
 DeFi
 defi
 Blockchains
@@ -81,6 +84,8 @@ heinemeier
 Granger
 Lia
 Agora
+Kai
+Kai's
 Granger's
 Lia's
 Agora's
