@@ -6,6 +6,8 @@ description: "Journey through Aurora, an open society where dreams come alive, y
 keywords: "Aurora, open society, collaboration, collective creativity, urban adventures, shared visions"
 ---
 
+![](./starry-reflections.png.png)
+
 ## Chapter One: Greeting the Dawn in Aurora
 
 I remember the morning Aurora greeted me with sunlight that felt like a gentle embrace. This city, every inch of it, had 'open' written all over.
