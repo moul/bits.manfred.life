@@ -19,6 +19,7 @@ Jargons
 nitty
 roadmap
 DAO
+lang
 interconnectedness
 Gno's
 curveball
