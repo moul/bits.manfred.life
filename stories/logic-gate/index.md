@@ -1,5 +1,7 @@
 ---
 title: "The Logic Gate: An Odyssey Through Digital Realms"
+menu_title: "Logic Gate"
+slug: "logic-gate"
 ---
 
 ## **Chapter 1: Convergence**
