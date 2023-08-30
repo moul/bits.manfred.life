@@ -4,6 +4,8 @@ menu_title: "Logic Gate"
 slug: "logic-gate"
 ---
 
+![](./digital-bridge 2.png)
+
 ## Chapter 1: Convergence
 
 The omnipresent hum of The Nexus was more than just a background noise—it was the very heartbeat of the digital world. While the organic realm continued with its business of nature, machines, and human endeavors, underneath, The Nexus acted as the puppeteer, seamlessly interweaving human consciousness with a sprawling digital network.
