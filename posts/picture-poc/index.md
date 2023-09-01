@@ -1,7 +1,7 @@
 ---
 title: "A Picture, A Proof of Concept and Their Worth"
-menu_title: "picture-poc"
-slug: poc-picture-words
+menu_title: "PoC == 1000 Pictures"
+slug: "picture-poc"
 description: "On the comparative worth of pictures and proofs of concept in communication"
 keywords: "picture, proof of concept, PoC, communication, software development, Manfred Touron"
 type: "blog"
