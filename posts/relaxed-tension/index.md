@@ -1,7 +1,7 @@
 ---
 title: "The Balance of Tension & Relaxation"
 menu_title: "Tension & Relaxation"
-slug: "relatex-tension"
+slug: "relaxed-tension"
 description: "A deep dive into the Chinese proverb - 'Tension is who you think you should be. Relaxation is who you are.' and discovering the sweet spot between tension and relaxation for a fulfilling life."
 keywords: "tension, relaxation, self-discovery, personal growth, balance, Chinese Proverb"
 ---
