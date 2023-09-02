@@ -1,6 +1,7 @@
 ---
 title: "Open Source is not Open Bar"
 menu_title: "Open Bar"
+slug: "open-bar"
 description: "The evolving world of open-source: its present, pitfalls, and potential."
 keywords: "open source, software, code quality, open bar, DAOs, community, roadmap"
 ---
