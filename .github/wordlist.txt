@@ -15,6 +15,13 @@ XXX
 WIP
 
 # common topics
+WorldDAO
+utopian
+EgoX
+EgoX's
+shockwaves
+WorldDAO's
+benefitted
 mentorship
 codebase
 poc
