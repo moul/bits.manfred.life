@@ -31,15 +31,6 @@ Imagine a world where everyone has access to quality healthcare, education, and 
 
 In this harmonious society, an incident sent ripples of shock across the globe. An individual, known as EgoX in the digital world, tried to hoard resources, to accumulate personal wealth, to game the system. It was an act so unusual, so disturbing that it shook the societal equilibrium.
 
-```go
-// Example of an attempt to exploit the DAO
-type ExploitAttempt struct {
-    Actor string
-    Action string
-    Impact string
-}
-```
-
 EgoX's actions opened a Pandora's box of questions. The society began to ask - was there a flaw in our system? Could EgoX be the first of many? Were we on the brink of societal collapse, or was this merely a hiccup in our otherwise flawless existence?
 
 This incident was a stark reminder of the old world, where personal gain often triumphed over societal well-being. It was a shock to the system, a shock to the collective harmony that WorldDAO had built.
@@ -48,28 +39,11 @@ This incident was a stark reminder of the old world, where personal gain often t
 
 The response to EgoX's actions was swift and decisive. The WorldDAO community came together, deliberating on the incident and its implications. Discussions were held, proposals were made, and a consensus was reached.
 
-```go
-// Simplified representation of a DAO response
-type DAOResponse struct {
-    Discussion []string
-    Proposals []Proposal
-    Consensus bool
-}
-```
-
 The community decided to reinforce the system, making it even more resilient to such attempts. Education campaigns were launched, explaining the importance of collective well-being over personal gain. EgoX's actions were condemned, but it also served as a valuable lesson for the community
 
 ## Chapter 4: Strengthening the Foundations
 
 WorldDAO, learning from the incident, began to strengthen its foundations. New rules were implemented, more stringent checks were put in place, and the system was made more robust and resilient.
-
-```go
-// Simplified representation of DAO system upgrade
-type DAOUpgrade struct {
-    NewRules map[string]string
-    Checks []string
-}
-```
 
 WorldDAO also focused on educating its citizens, emphasizing the importance of collective welfare and the dangers of personal greed. This incident, while shocking, served as a catalyst for WorldDAO to become even stronger.
 
@@ -77,27 +51,11 @@ WorldDAO also focused on educating its citizens, emphasizing the importance of c
 
 The shockwaves of the EgoX incident didn't just stop at the strengthening of WorldDAO's foundations. It triggered a ripple effect that touched every aspect of society. The incident served as a stark reminder of the potential pitfalls of individual greed, leading to a renewed emphasis on collective welfare.
 
-```go
-// Simplified representation of the ripple effect
-type RippleEffect struct {
-    ImpactAreas []string
-    Changes []string
-}
-```
-
 Education systems started incorporating lessons on collective welfare and the importance of contributing to WorldDAO. Workplaces began to focus more on collaborative projects that benefitted the community. Even everyday conversations were imbued with a renewed sense of collective responsibility.
 
 ## Chapter 6: A Society Reborn
 
 As the dust settled, WorldDAO stood stronger than ever. The society was reborn, its foundations fortified, and its resolve unshaken. The EgoX incident, while a shock, had ultimately served to bring the community closer together.
-
-```go
-// Simplified representation of a society reborn
-type SocietyReborn struct {
-    Strength string
-    Unity string
-}
-```
 
 The citizens of WorldDAO, each a vital part of the massive DAO, continued to work towards a harmonious world. A world where every voice mattered, every decision was collective, and every action was for the greater good.
 
