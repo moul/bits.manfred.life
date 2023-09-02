@@ -6,6 +6,8 @@ description: "A utopian tale set in a world controlled by WorldDAO, where every 
 keywords: "utopia, DAO, equality, society, blockchain"
 ---
 
+![](./worlddao.png)
+
 ## Chapter 1: The WorldDAO Harmony
 
 In a world not too far in the future, the chains of monetary ambition have been broken. Our society is a harmonious orchestra, playing the symphony of equality under the governance of WorldDAO, a Decentralized Autonomous Organization.
