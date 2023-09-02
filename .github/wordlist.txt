@@ -19,6 +19,7 @@ WorldDAO
 utopian
 EgoX
 EgoX's
+DAO's
 shockwaves
 WorldDAO's
 benefitted
