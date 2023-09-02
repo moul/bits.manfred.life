@@ -29,7 +29,7 @@ Imagine a world where everyone has access to quality healthcare, education, and 
 
 ## Chapter 2: The Unfamiliar Shock
 
-In this harmonious society, an incident sent ripples of shock across the globe. An individual, known as EgoX in the digital world, tried to hoard resources, to accumulate personal wealth, to game the system. It was an act so unusual, sodisturbing that it shook the societal equilibrium.
+In this harmonious society, an incident sent ripples of shock across the globe. An individual, known as EgoX in the digital world, tried to hoard resources, to accumulate personal wealth, to game the system. It was an act so unusual, so disturbing that it shook the societal equilibrium.
 
 ```go
 // Example of an attempt to exploit the DAO
@@ -57,7 +57,9 @@ type DAOResponse struct {
 }
 ```
 
-The community decided to reinforce the system, making it even more resilient to such attempts. Education campaigns were launched, explaining the importance of collective well-being over personal gain. EgoX's actions were condemned, but it also served as a valuable lesson for the community## Chapter 4: Strengthening the Foundations
+The community decided to reinforce the system, making it even more resilient to such attempts. Education campaigns were launched, explaining the importance of collective well-being over personal gain. EgoX's actions were condemned, but it also served as a valuable lesson for the community
+
+## Chapter 4: Strengthening the Foundations
 
 WorldDAO, learning from the incident, began to strengthen its foundations. New rules were implemented, more stringent checks were put in place, and the system was made more robust and resilient.
 
