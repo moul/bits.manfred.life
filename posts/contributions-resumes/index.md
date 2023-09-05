@@ -48,3 +48,5 @@ Portfolios, both professional and personal, offer valuable insights into a candi
 In conclusion, when evaluating candidates, it's crucial to look beyond the traditional resume and consider their contributions. Tangible contributions provide evidence of compatibility and demonstrate a candidate's ability to make a meaningful impact. By emphasizing contributions and considering both professional and personal portfolios, we can find the perfect fit and create successful collaborations.
 
 Remember, actions speak louder than words when it comes to compatibility.
+
+> "It's not enough to have a dream, unless you're willing to pursue it." - Walt Disney
