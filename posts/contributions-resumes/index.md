@@ -13,7 +13,9 @@ When it comes to meeting candidates for hiring, consulting, or collaboration, re
 
 Candidates who come with a CV but no tangible contributions may pose a higher risk of not being a good fit. Without any demonstrated work or involvement, it becomes challenging to assess their compatibility with the project or organization.
 
-> "Actions speak louder than words. It's not enough to have a well-crafted resume; candidates need to show their ability to contribute and make a meaningful impact." - Anonymous
+> "Action speaks louder than words but not nearly as often." - Mark Twain
+
+It's not enough to have a well-crafted resume; candidates need to show their ability to contribute and make a meaningful impact.
 
 ### The Pitfall of Company Expertise
 
