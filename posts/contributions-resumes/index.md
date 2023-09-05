@@ -117,7 +117,7 @@ For candidates, the message is clear: While traditional portfolios showcase brea
 
 To encourage contributions, various approaches can be taken. Open-source contributions allow candidates to showcase their skills and compatibility. Technical tests, whether paid or not, can also provide valuable insights. It's important to tailor these tests to closely resemble the actual work the candidate would be doing if hired.
 
-> "The contribution is the new portfolio." - Me :)
+> "The contribution is the new portfolio."    
 
 ## Embracing Compatibility for Success
 
