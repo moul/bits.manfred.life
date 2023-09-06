@@ -15,6 +15,7 @@ XXX
 WIP
 
 # common topics
+MVPs
 WorldDAO
 utopian
 EgoX
@@ -23,6 +24,9 @@ DAO's
 shockwaves
 WorldDAO's
 benefitted
+Behance
+Dribbble
+Ferriss
 mentorship
 codebase
 poc
@@ -97,11 +101,7 @@ ephemerality
 façade
 bioluminescent
 ideate
-
-# numbers (wtf)
 th
-
-# names / quotes
 Ebner
 von
 Eschenbach
@@ -111,8 +111,6 @@ hansson
 Nassim
 Taleb
 heinemeier
-
-# characters
 Granger
 Lia
 Agora
@@ -121,8 +119,6 @@ Kai's
 Granger's
 Lia's
 Agora's
-
-# Tech projects
 gno
 gnoland
 gnolang
