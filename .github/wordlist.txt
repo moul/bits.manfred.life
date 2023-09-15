@@ -14,7 +14,17 @@ FIXME
 XXX
 WIP
 
-# common topics
+# words and names
+ascii
+da
+Centric
+centric
+SVG
+backticks
+scalable
+unmarshal
+UIs
+Vinci
 MVPs
 WorldDAO
 utopian
