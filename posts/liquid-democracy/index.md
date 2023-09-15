@@ -49,28 +49,59 @@ Here's a simple Golang representation of a DAO with Liquid Democracy, Recursive 
 
 ```go
 type DAO struct {
-    Members []Member
-    Categories map[string][]Member
-    Delegations map[Member]map[string]Member
+    Members map[string]*Member
+    Delegations map[string]map[string]string
+    Votes map[string]map[string]*Vote
 }
 
-func (dao *DAO) Delegate(from Member, to Member) {
-    dao.Delegations[from] = to
+type Member struct {
+    Name string
+    Children []string
 }
 
-func (dao *DAO) DelegateCategory(from Member, to Member, category string) {
+type Vote struct {
+    Category string
+    Choice string
+}
+
+func (dao *DAO) Delegate(from string, to string, category string) {
     if dao.Delegations[from] == nil {
-        dao.Delegations[from] = make(map[string]Member)
+        dao.Delegations[from] = make(map[string]string)
     }
     dao.Delegations[from][category] = to
 }
 
-func (dao *DAO) Vote(member Member, decision Decision) {
-    // Implementation of voting logic with recursive delegation
+func (dao *DAO) Vote(member string, vote *Vote) {
+    if dao.Votes[member] == nil {
+        dao.Votes[member] = make(map[string]*Vote)
+    }
+    dao.Votes[member][vote.Category] = vote
 }
 
-func (dao *DAO) VoteCategory(member Member, decision Decision, category string) {
-    // Implementation of voting logic with category delegation
+func (dao *DAO) ComputeVotes(category string) map[string]int {
+    results := make(map[string]int)
+
+    for member, votes := range dao.Votes {
+        if vote, ok := votes[category]; ok {
+            results[vote.Choice]++
+        } else if delegate, ok := dao.Delegations[member][category]; ok {
+            results = dao.computeDelegateVotes(delegate, category, results)
+        }
+    }
+
+    return results
+}
+
+func (dao *DAO) computeDelegateVotes(delegate string, category string, results map[string]int) map[string]int {
+    if vote, ok := dao.Votes[delegate][category]; ok {
+        results[vote.Choice]++
+    }
+
+    for _, child := range dao.Members[delegate].Children {
+        results = dao.computeDelegateVotes(child, category, results)
+    }
+
+    return results
 }
 ```
 
