@@ -6,11 +6,11 @@ keywords: "Liquid Democracy, Recursive Delegation, Category Delegation, Blockcha
 slug: "liquid-democracy"
 ---
 
-_"The future depends on what you do today."_ - Mahatma Gandhi
-
 Democracy is the cornerstone of our society, but it's not without its flaws.
 It can be slow, opaque, and often doesn't represent the will of the people accurately.
 Enter Liquid Democracy and blockchain - a combination that could revolutionize the democratic process.
+
+> _"Empty your mind, be formless, shapeless — like water."_ - Bruce Lee
 
 ## Liquid Democracy - A Hybrid Approach
 
@@ -44,6 +44,8 @@ Once "elected", leaders will have the pressure to maintain their position, ensur
 
 Blockchain, with its transparency, security, and decentralization, is the perfect platform for implementing Liquid Democracy.
 It can provide a secure, transparent record of votes and delegations, making the democratic process faster, better, stronger, safer, and more transparent.
+
+> _"The future depends on what you do today."_ - Mahatma Gandhi
 
 Here's a simple Golang representation of a DAO with Liquid Democracy, Recursive Delegation, and Category Delegation:
 
@@ -106,5 +108,7 @@ func (dao *DAO) computeDelegateVotes(delegate string, category string, results m
 ```
 
 In conclusion, Liquid Democracy, Recursive Delegation, and Category Delegation offer a new approach to democracy that is more representative, flexible, and nuanced. 
-ombined with the power of blockchain, we can revolutionize the democratic process.
+Combined with the power of blockchain, we can revolutionize the democratic process.
 It's a future I'm excited to help build, and I invite you to join me on this journey.
+
+> _"Nothing is softer or more flexible than water, yet nothing can resist it."_ - Lao Tzu
