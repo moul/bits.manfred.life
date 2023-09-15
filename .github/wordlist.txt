@@ -19,6 +19,9 @@ MVPs
 WorldDAO
 utopian
 EgoX
+Golang
+scalability
+Scalability
 EgoX's
 DAO's
 shockwaves
