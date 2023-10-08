@@ -145,3 +145,6 @@ TechDoc
 codebases
 apis
 deepfakes
+subvocalization
+codecs
+auditability
