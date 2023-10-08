@@ -50,6 +50,14 @@ Just as the world is powered and restricted by physical laws, most of humanity a
 
 The ultimate target is not to use programming languages to write apps and APIs anymore, but to create a language so powerful that it can become its own set of laws. This would allow us to make a new loop and create a whole new world. It's not about writing a virtual machine anymore, but about writing a virtual society. It's not anymore about trying to translate what we know for thousands of years into a digital equivalent; but creating new things that we can barely imagine today.
 
+```mermaid
+graph LR
+    A[Spoken Language] --> B[Written Language]
+    B --> C[Programming Languages]
+    C --> D[Language as a Platform]
+    D --> E[Language as a Law]
+```
+
 ## The Dawn of a New Era
 
 This is the dawn of a new era, where we are not just creating digital platforms, but entire digital societies. A society where the language is the law, and the law is the language . A society that is not bound by the physical laws of the universe, but by the laws we write in our code.
@@ -57,6 +65,13 @@ This is the dawn of a new era, where we are not just creating digital platforms,
 This is a world where we are not just developers, but lawmakers, architects, and builders of a new reality. A reality that is not confined to the physical world, but extends into the digital realm.
 
 In this world, every line of code is a law, every function is a building block, and every program is a city in the digital landscape. This is a world where we can create, explore, and innovate without limits.
+
+```mermaid
+graph LR
+    A[Reality] -- Shaped by --> B[Language]
+    B -- Becomes --> C[Platform]
+    C -- Leads to --> D[New Reality]
+```
 
 ## The Promise of the Future
 
