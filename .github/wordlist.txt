@@ -140,7 +140,7 @@ berty
 wesh
 weshnet
 daretofork
-
-# Tech deps
 makerlog
 TechDoc
+codebases
+apis
