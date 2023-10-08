@@ -6,6 +6,8 @@ description: "Exploring the transformation of digital platforms from APIs to lan
 slug: "apis-language"
 ---
 
+![](./apis-language.png)
+
 > "The limits of my language mean the limits of my world." - Ludwig Wittgenstein
 
 The digital landscape has undergone a remarkable transformation over the past few decades, with language playing a pivotal role. In our quest for efficiency, understanding, and innovation, we have moved from creating platforms with application programming interfaces (APIs) to envisioning platforms as languages.
