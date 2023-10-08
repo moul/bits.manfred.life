@@ -1,6 +1,6 @@
 ---
 title: "The Evolution of Digital Platforms: From APIs to Language"
-menu_title: "APIs --> Language"
+menu_title: "APIs ~> Language"
 #tags: ["digital platforms", "APIs", "programming languages"]
 description: "Exploring the transformation of digital platforms from APIs to languages, and the potential of language as the ultimate target for shaping our digital future."
 slug: "apis-language"
