@@ -32,6 +32,7 @@ The simplicity of "Hello, World!" is a reminder that technology, at its core, is
 Creating a "Hello, World!" program in a new language is a significant achievement.
 It means that the language, parser, and compiler are all working correctly.
 It also means that the conventions of the language have been established and that the language has been adopted by a community of developers.
+
 This simple program is a testament to one of humanity's greatest inventions - language and communication.
 
 ## Igniting Enthusiasm, Embracing the Future
