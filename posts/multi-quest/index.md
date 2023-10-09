@@ -2,7 +2,7 @@
 title: "The Multi-Path Mindset: My Personal Journey"
 slug: "multi-path"
 menu_title: "Multi-Path Mindset"
-draft: true
+#draft: true
 description: "A personal exploration of my unique approach to life and work, juggling multiple interests and passions, and how this diversity fuels creativity, innovation, and personal growth."
 ---
 
