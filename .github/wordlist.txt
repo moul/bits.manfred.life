@@ -148,3 +148,7 @@ deepfakes
 subvocalization
 codecs
 auditability
+CAPTCHA
+captcha
+CAPTCHAs
+biometric
