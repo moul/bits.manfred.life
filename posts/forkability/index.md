@@ -46,6 +46,12 @@ There are two main challenges to achieving forkability:
 
 Forkability is particularly important in blockchains and DAOs, which are expected to last for a long time and are hard to mutate directly. By making a blockchain or DAO forkable, we can ensure its long-term survival and evolution.
 
+```go
+type Forkable interface {
+    Fork() (Forkable, error)
+}
+```
+
 ## Conclusion
 
 Forkability is not just a nice-to-have feature in software. It's a necessity for survival and evolution. It's about creating a healthy competitive environment and ensuring the immortality of a concept or project. As software builders, we should not strive for perfection, but for good enough and forkable. We should embrace forkability and see it not as a threat, but as an opportunity for growth and evolution.
