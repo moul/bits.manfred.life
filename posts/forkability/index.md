@@ -20,6 +20,14 @@ The concept of "forkability" is a multifaceted gem in the treasure chest of soft
 
 In the wild, many weaker animal species survive by striking a balance between longevity and procreation. Similarly, software projects can survive by finding a balance between perfection and forkability. A software project doesn't need to be perfect or immortal. It just needs to be good enough and forkable. This allows the project to evolve and adapt over time, ensuring the survival of the project.
 
+```mermaid
+graph TB;
+    A[Original Project] --> B[Fork 1];
+    A --> C[Fork 2];
+    B --> D[Fork 1.1];
+    C --> E[Fork 2.1];
+```
+
 ## The Catalyst of Evolution: Forkability
 
 Forkability enables a software project to inherit the best from the previous generation and iterate on it. It's about taking what works and improving on it. This is how software evolves. It's not about creating the perfect solution from scratch, but about improving and building on what already exists.
