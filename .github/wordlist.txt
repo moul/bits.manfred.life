@@ -152,3 +152,11 @@ CAPTCHA
 captcha
 CAPTCHAs
 biometric
+Branchability
+Extensibility
+Iterability
+Modifiability
+Transformability
+forkability
+tokenomics
+forkable
