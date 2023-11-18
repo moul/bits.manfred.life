@@ -159,3 +159,4 @@ Modifiability
 Transformability
 forkability
 tokenomics
+forkable
