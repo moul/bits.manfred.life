@@ -1,0 +1,4 @@
+- i like solving puzzles
+- i like creating puzzles
+- ultimately i'd like to make puzzle sthat will be solved after my death
+- unclarity is a problem for ennemies, less for allies; pepole who are enthusiastic can follow a blurry plan and fill the missing space; ennemies are just looking to destroy things and the most clear a plan is, the harder it is to change
