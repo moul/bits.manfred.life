@@ -14,7 +14,9 @@ In a world that often feels transient and fleeting, there are individuals whose 
 
 TODO: A portrait of Coluche with a subtle background image of "Les Restos du Cœur" in action.
 
-Coluche, a beloved French comedian, envisioned a world where hunger was not a perpetual struggle. His initiative, "Les Restos du Cœur", began as a simple idea to provide free meals to the needy. Today, it has grown into a nationwide movement, exemplifying how a single compassionate idea can spark widespread humanitarian efforts. This section could explore the current impact of "Les Restos du Cœur", perhaps with statistics or personal stories to show its enduring relevance.
+Coluche, a beloved French comedian, envisioned a world where hunger was not a perpetual struggle. His initiative, "Les Restos du Cœur", began as a simple idea to provide free meals to the needy. Today, it has grown into a nationwide movement, exemplifying how a single compassionate idea can spark widespread humanitarian efforts. 
+
+TODO: Explore the current impact of "Les Restos du Cœur", perhaps with statistics or personal stories to show its enduring relevance.
 
 ### L'Abbé Pierre and Emmaus
 
@@ -22,7 +24,9 @@ Coluche, a beloved French comedian, envisioned a world where hunger was not a pe
 
 TODO: L'Abbé Pierre in action, maybe a historical photo of him with the homeless, to capture his compassion.
 
-L'Abbé Pierre's "Emmaus" community, born from a desire to combat poverty and exclusion, has evolved into a global organization. This transformation from a small shelter to an international entity is not just a story of growth, but also of how a vision can adapt and thrive over time. Discussing current Emmaus initiatives could illustrate how L'Abbé Pierre's legacy adapts to contemporary challenges while staying true to its core values.
+L'Abbé Pierre's "Emmaus" community, born from a desire to combat poverty and exclusion, has evolved into a global organization. This transformation from a small shelter to an international entity is not just a story of growth, but also of how a vision can adapt and thrive over time.
+
+TODO: Discussing current Emmaus initiatives could illustrate how L'Abbé Pierre's legacy adapts to contemporary challenges while staying true to its core values.
 
 ### Jesus and His Teachings
 
@@ -30,7 +34,9 @@ L'Abbé Pierre's "Emmaus" community, born from a desire to combat poverty and ex
 
 TODO: Classic art depicting Jesus teaching, combined with a modern interpretation of his principles.
 
-The teachings of Jesus, focusing on love, forgiveness, and kindness, have not only shaped religious thought but also influenced secular ethics and morality. This section could delve into how these ancient principles remain relevant in modern society, influencing everything from individual behavior to large-scale humanitarian efforts.
+The teachings of Jesus, focusing on love, forgiveness, and kindness, have not only shaped religious thought but also influenced secular ethics and morality.
+
+TODO: Delve into how these ancient principles remain relevant in modern society, influencing everything from individual behavior to large-scale humanitarian efforts.
 
 ### Satoshi Nakamoto and the Blockchain Revolution
 
@@ -38,7 +44,9 @@ The teachings of Jesus, focusing on love, forgiveness, and kindness, have not on
 
 TODO: A visual representation of blockchain technology and its diverse applications.
 
-Satoshi Nakamoto's enigmatic persona adds to the intrigue of his groundbreaking blockchain technology. This section could explore how blockchain has grown beyond its initial financial applications to areas like secure voting systems, supply chain management, and even art (NFTs). This would illustrate how Nakamoto's vision is still unfolding and shaping various industries.
+Satoshi Nakamoto's enigmatic persona adds to the intrigue of his groundbreaking blockchain technology. This section could explore how blockchain has grown beyond its initial financial applications to areas like secure voting systems, supply chain management, and even art (NFTs).
+
+TODO: Illustrate how Nakamoto's vision is still unfolding and shaping various industries.
 
 ### Einstein and the Theory of Relativity
 
@@ -46,11 +54,16 @@ Satoshi Nakamoto's enigmatic persona adds to the intrigue of his groundbreaking 
 
 TODO: A visual timeline showing the evolution of Einstein's theories from conception to modern applications in space exploration and technology.
 
-Einstein's theories not only revolutionized our understanding of space and time but also laid the groundwork for countless technological advancements. This section could look at how Einstein's ideas continue to influence current scientific research and technology, underlining the ongoing relevance of his vision.
+Einstein's theories not only revolutionized our understanding of space and time but also laid the groundwork for countless technological advancements. 
+
+TODO: How Einstein's ideas continue to influence current scientific research and technology, underlining the ongoing relevance of his vision.
 
 ## Connecting Visionaries Across Time
 
-These individuals, though separated by time and domain, share a common thread: their ability to envision a reality far beyond the horizon of their contemporaries. Their stories are interconnected by this unique foresight, akin to time travelers bestowed with the knowledge of what could be. This network of visionary thought demonstrates how ideas that are initially met with skepticism can, in time, become foundational to our understanding of the world.
+These individuals, though separated by time and domain, share a common thread: their ability to envision a reality far beyond the horizon of their contemporaries. Their stories are interconnected by this unique foresight, akin to time travelers bestowed with the knowledge of what could be.
+
+
+TODO: Demonstrates how ideas that are initially met with skepticism can, in time, become foundational to our understanding of the world.
 
 ### The Immortality of Ideas and the Folly of Racism
 
