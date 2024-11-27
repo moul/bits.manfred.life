@@ -38,11 +38,23 @@ enableMissingTranslationPlaceholders = false
 
 [menu]
 [[menu.main]]
-    name = "Home"
+    name = "blog"
     url = "/"
     weight = 1
     identifier = "home"
     pre = "<i class='fa fa-heart'></i>&nbsp;"
+[[menu.main]]
+    name = "archives"
+    url = "https://v1.manfred.life"
+    weight = 2
+    identifier = "archives"
+    pre = "<i class='fa-solid fa-arrow-up-right-from-square'></i>&nbsp;"
+[[menu.main]]
+    name = "manfred.life"
+    url = "https://manfred.life"
+    weight = 3
+    identifier = "manfredlife"
+    pre = "<i class='fa-solid fa-arrow-up-right-from-square'></i>&nbsp;"
 
 [markup]
     defaultMarkdownHandler = "goldmark"
